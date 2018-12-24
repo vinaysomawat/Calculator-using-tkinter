@@ -1,3 +1,3 @@
 # Calculator-using-tkinter
-run:
-###python calculator.py
+Run command:
+#### python calculator.py
